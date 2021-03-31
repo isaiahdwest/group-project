@@ -1,4 +1,4 @@
-DATE,UEMPMEAN,CCSA,CE16OV,LNS12032194,LNS15000000,W825RC1,LNS11300002,LNS11300001,CIVPART,REALLN,CONSUMER,BUSLOANS,M1REAL,UEMPLT5,UEMP5TO14,UEMP15T26,UEMP27OV,PCE,PSAVERT,EMRATIO,UNRATE,IURSA
+DATE,avg_weeks_unemployed,cont_claims_insur_unemploy,full_employ_level,part_employ_level,not_in_labor_force,gov_unemp_insur,labor_particip_women,labor_particip_men,labor_particip_total,real_estate_loans,consumer_loans,commerc_indust_loans,m1_real,unemp_less_five_weeks,unemp_5_to_14_wks,unemp_15_to_26_wks,unemp_over_27_wks,personal_consum_exp,personal_save_rate,emp_pop_ratio,unemploy_rate,insured_unemploy_rate
 1947-01-01,,,,,,,,,,6.796,4.1612,11.2894,,,,,,,,,,
 1947-02-01,,,,,,,,,,6.9551,4.2966,11.5179,,,,,,,,,,
 1947-03-01,,,,,,,,,,7.1249,4.4306,11.7667,,,,,,,,,,
