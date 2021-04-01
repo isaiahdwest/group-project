@@ -1,4 +1,23 @@
-num_unemp_timeframe.csv(MONTHLY)
+(TARGET DATA)
+
+
+target_leisure_hospitality.csv
+
+target_leisure_hospitality
+https://fred.stlouisfed.org/series/USLAH
+Units: Thousands of Persons, Seasonally Adjusted
+All Employees, Leisure and Hospitality
+
+
+
+
+
+
+(MONTHLY DATA)
+
+
+
+num_unemp_timeframe.csv
 
 unemp_less_5_wks
 https://fred.stlouisfed.org/series/UEMPLT5
@@ -22,7 +41,7 @@ Number Unemployed for 27 Weeks & Over
 
 
 
-avg_weeks_unemp.csv(MONTHLY)
+avg_weeks_unemp.csv
 
 avg_weeks_unemployed
 https://fred.stlouisfed.org/series/UEMPMEAN
@@ -31,7 +50,7 @@ Average Weeks Unemployed
 
 
 
-gov_unemp_insur.csv(MONTHLY)
+gov_unemp_insur.csv
 
 gov_unemp_insur
 https://fred.stlouisfed.org/series/W825RC1
@@ -39,7 +58,7 @@ Units: Billions of Dollars, Seasonally Adjusted Annual Rate
 Personal current transfer receipts: Government social benefits to persons: Unemployment insurance
 
 
-m1_real.csv(MONTHLY)
+m1_real.csv
 
 m1_real
 https://fred.stlouisfed.org/series/M1REAL
@@ -48,7 +67,7 @@ Real M1 Money Stock
 
 
 
-personal_consump_exp.csv(MONTHLY)
+personal_consump_exp.csv
 
 personal_consum_exp
 https://fred.stlouisfed.org/series/PCE
@@ -57,7 +76,7 @@ Personal Consumption Expenditures
 
 
 
-cont_claim_insur_unemp.csv(MONTHLY)
+cont_claim_insur_unemp.csv
 
 cont_claims_insur_unemploy
 https://fred.stlouisfed.org/series/CCSA#0
@@ -66,7 +85,7 @@ Continued Claims (Insured Unemployment)
 
 
 
-personal_save_rate.csv(MONTHLY)
+personal_save_rate.csv
 
 personal_save_rate
 https://fred.stlouisfed.org/series/PSAVERT
@@ -75,7 +94,7 @@ Personal Saving Rate
 
 
 
-labor_force_partic_rate(MONTHLY)
+labor_force_partic_rate
 
 labor_particip_women
 https://fred.stlouisfed.org/series/LNS11300002
@@ -94,7 +113,7 @@ Total Labor Force Participation Rate
 
 
 
-employ_level.csv(MONTHLY)
+employ_level.csv
 
 full_employ_level
 https://fred.stlouisfed.org/series/CE16OV
@@ -113,7 +132,7 @@ Not in Labor Force
 
 
 
-unemp_rate_emp_pop_ratio.csv(MONTHLY)
+unemp_rate_emp_pop_ratio.csv
 
 emp_pop_ratio
 https://fred.stlouisfed.org/series/EMRATIO
@@ -132,7 +151,7 @@ Insured Unemployment Rate
 
 
 
-loans.csv(MONTHLY)
+loans.csv
 
 real_estate_loans
 https://fred.stlouisfed.org/series/REALLN
@@ -154,7 +173,11 @@ Commercial and Industrial Loans, All Commercial Banks
 
 
 
-corp_profit_before_after_tax.csv(QUARTERLY)
+(QUARTERLY DATA)
+
+
+
+corp_profit_before_after_tax.csv
 
 corp_profit_aftertax_without
 https://fred.stlouisfed.org/series/CP
@@ -173,7 +196,7 @@ National income: Corporate profits before tax (without IVA and CCAdj)
 
 
 
-fed_debt_as_percent_gdp.csv(QUARTERLY)
+fed_debt_as_percent_gdp.csv
 
 fed_debt_precent_gdp
 https://fred.stlouisfed.org/series/GFDEGDQ188S
@@ -182,7 +205,7 @@ Federal Debt: Total Public Debt as Percent of Gross Domestic Product
 
 
 
-m1_velocity_quarter.csv(QUARTERLY)
+m1_velocity_quarter.csv
 
 m1_velocity
 https://fred.stlouisfed.org/series/M1V
