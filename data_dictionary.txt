@@ -1,12 +1,46 @@
 (TARGET DATA)
 
-
-target_leisure_hospitality.csv
+all_targets_data.csv
 
 target_leisure_hospitality
 https://fred.stlouisfed.org/series/USLAH
 Units: Thousands of Persons, Seasonally Adjusted
 All Employees, Leisure and Hospitality
+
+target_retail
+https://fred.stlouisfed.org/series/USTRADE#0
+Units: Thousands of Persons, Seasonally Adjusted
+All Employees, Retail Trade
+
+target_mining_logging
+https://fred.stlouisfed.org/series/USMINE
+Units: Thousands of Persons, Seasonally Adjusted
+All Employees, Mining and Logging
+
+target_construction
+https://fred.stlouisfed.org/series/USCONS
+Units: Thousands of Persons, Seasonally Adjusted
+All Employees, Construction
+
+target_edu_health
+https://fred.stlouisfed.org/series/USEHS
+Units: Thousands of Persons, Seasonally Adjusted
+All Employees, Education and Health Services
+
+target_manufacturing
+https://fred.stlouisfed.org/series/MANEMP
+Units: Thousands of Persons, Seasonally Adjusted
+All Employees, Manufacturing
+
+target_prof_business
+https://fred.stlouisfed.org/series/USPBS
+Units: Thousands of Persons, Seasonally Adjusted
+All Employees, Professional and Business Services
+
+target_gov
+https://fred.stlouisfed.org/series/USGOVT
+Units: Thousands of Persons, Seasonally Adjusted
+All Employees, Government
 
 
 
@@ -15,9 +49,7 @@ All Employees, Leisure and Hospitality
 
 (MONTHLY DATA)
 
-
-
-num_unemp_timeframe.csv
+monthly_data.csv
 
 unemp_less_5_wks
 https://fred.stlouisfed.org/series/UEMPLT5
@@ -39,62 +71,35 @@ https://fred.stlouisfed.org/series/UEMP27OV
 Units: Thousands of Persons, Seasonally Adjusted
 Number Unemployed for 27 Weeks & Over
 
-
-
-avg_weeks_unemp.csv
-
 avg_weeks_unemployed
 https://fred.stlouisfed.org/series/UEMPMEAN
 Units: Weeks, Seasonally Adjusted
 Average Weeks Unemployed
-
-
-
-gov_unemp_insur.csv
 
 gov_unemp_insur
 https://fred.stlouisfed.org/series/W825RC1
 Units: Billions of Dollars, Seasonally Adjusted Annual Rate
 Personal current transfer receipts: Government social benefits to persons: Unemployment insurance
 
-
-m1_real.csv
-
 m1_real
 https://fred.stlouisfed.org/series/M1REAL
 Units: Billions of 1982-84 Dollars, Seasonally Adjusted
 Real M1 Money Stock
-
-
-
-personal_consump_exp.csv
 
 personal_consum_exp
 https://fred.stlouisfed.org/series/PCE
 Units: Billions of Dollars, Seasonally Adjusted Annual Rate
 Personal Consumption Expenditures
 
-
-
-cont_claim_insur_unemp.csv
-
 cont_claims_insur_unemploy
 https://fred.stlouisfed.org/series/CCSA#0
 Units: Number Count, Seasonally Adjusted
 Continued Claims (Insured Unemployment)
 
-
-
-personal_save_rate.csv
-
 personal_save_rate
 https://fred.stlouisfed.org/series/PSAVERT
 Units: Percent, Seasonally Adjusted Annual Rate
 Personal Saving Rate
-
-
-
-labor_force_partic_rate
 
 labor_particip_women
 https://fred.stlouisfed.org/series/LNS11300002
@@ -111,10 +116,6 @@ https://fred.stlouisfed.org/series/CIVPART
 Units: Percent, Seasonally Adjusted
 Total Labor Force Participation Rate
 
-
-
-employ_level.csv
-
 full_employ_level
 https://fred.stlouisfed.org/series/CE16OV
 Units: Thousands of Persons, Seasonally Adjusted
@@ -130,10 +131,6 @@ https://fred.stlouisfed.org/series/LNS15000000
 Units: Thousands of Persons, Seasonally Adjusted
 Not in Labor Force
 
-
-
-unemp_rate_emp_pop_ratio.csv
-
 emp_pop_ratio
 https://fred.stlouisfed.org/series/EMRATIO
 Units: Percent, Seasonally Adjusted
@@ -148,10 +145,6 @@ insured_unemploy_rate
 https://fred.stlouisfed.org/series/IURSA
 Units: Percent, Seasonally Adjusted
 Insured Unemployment Rate
-
-
-
-loans.csv
 
 real_estate_loans
 https://fred.stlouisfed.org/series/REALLN
@@ -175,9 +168,7 @@ Commercial and Industrial Loans, All Commercial Banks
 
 (QUARTERLY DATA)
 
-
-
-corp_profit_before_after_tax.csv
+quarter_data.csv
 
 corp_profit_aftertax_without
 https://fred.stlouisfed.org/series/CP
@@ -194,18 +185,10 @@ https://fred.stlouisfed.org/series/A053RC1Q027SBEA
 Units: Billions of Dollars, Seasonally Adjusted Annual Rate
 National income: Corporate profits before tax (without IVA and CCAdj)
 
-
-
-fed_debt_as_percent_gdp.csv
-
 fed_debt_precent_gdp
 https://fred.stlouisfed.org/series/GFDEGDQ188S
 Units: Percent of GDP, Seasonally Adjusted
 Federal Debt: Total Public Debt as Percent of Gross Domestic Product
-
-
-
-m1_velocity_quarter.csv
 
 m1_velocity
 https://fred.stlouisfed.org/series/M1V
