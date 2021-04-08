@@ -1,0 +1,28 @@
+(QUARTERLY DATA)
+
+quarter_data.csv
+
+corp_profit_aftertax_without
+https://fred.stlouisfed.org/series/CP
+Units: Billions of Dollars, Seasonally Adjusted Annual Rate
+Corporate Profits After Tax (without IVA and CCAdj)
+
+corp_profit_aftertax_with
+https://fred.stlouisfed.org/series/CPATAX
+Units: Billions of Dollars, Seasonally Adjusted Annual Rate
+Corporate Profits After Tax with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj)
+
+corp_profit_beforetax_without
+https://fred.stlouisfed.org/series/A053RC1Q027SBEA
+Units: Billions of Dollars, Seasonally Adjusted Annual Rate
+National income: Corporate profits before tax (without IVA and CCAdj)
+
+fed_debt_precent_gdp
+https://fred.stlouisfed.org/series/GFDEGDQ188S
+Units: Percent of GDP, Seasonally Adjusted
+Federal Debt: Total Public Debt as Percent of Gross Domestic Product
+
+m1_velocity
+https://fred.stlouisfed.org/series/M1V
+Units: Ratio, Seasonally Adjusted
+Velocity of M1 Money Stock
