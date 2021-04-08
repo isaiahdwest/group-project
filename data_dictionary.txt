@@ -79,7 +79,7 @@ Average Weeks Unemployed
 gov_unemp_insur
 https://fred.stlouisfed.org/series/W825RC1
 Units: Billions of Dollars, Seasonally Adjusted Annual Rate
-Personal current transfer receipts: Government social benefits to persons: Unemployment insurance
+Government social benefits to persons: Unemployment insurance
 
 m1_real
 https://fred.stlouisfed.org/series/M1REAL
