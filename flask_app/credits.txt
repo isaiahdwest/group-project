@@ -1,0 +1,11 @@
+CREDITS
+======================
+
+- Fontawesome (https://fontawesome.com/icons?d=gallery&p=2): icons
+
+- Free Bootstrap (https://startbootstrap.com/theme/sb-admin-2): Java Script for toggle sidebar and icon/card shadow css
+
+- Tony Tedesco: Models
+
+- Daniel McBride: Quoted for project overview/summary
+
